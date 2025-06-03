@@ -4,7 +4,7 @@ The project analyzes the sentiment of restaurant reviews using machine learning 
 # What is Sentiment Analysis
 Sentiment analysis is a technique that uses natural language processing to determine whether text expresses positive, negative, or neutral emotions or opinions.
 
-#### Key Features
+# Key Features
 
 **Sentiment Analysis**: Classifies reviews as positive, negative, or neutral
 **Feature Extraction**: Identifies key aspects of restaurant experience (food, service, ambiance, price)
@@ -12,13 +12,13 @@ Sentiment analysis is a technique that uses natural language processing to deter
 **Customer Satisfaction Metrics**: Tracks satisfaction trends over time
 **Performance Optimization**: Utilizes cross-validation and Q-learning techniques
 
-**Core Technologies**
+# Core Technologies
 
 Python for data processing and model implementation
 Natural Language Processing (NLP) for text analysis
 Machine Learning models for sentiment classification
 
-**Key Techniques**
+# Key Techniques
 
 **Cross-Validation**: Ensures model robustness and prevents overfitting
 **Q-Learning**: Reinforcement learning approach that optimizes decision-making based on customer feedback patterns
@@ -26,8 +26,7 @@ Machine Learning models for sentiment classification
 **Feature Engineering**: TF-IDF, word embeddings, aspect-based feature extraction
 **Model Evaluation**: Precision, recall, F1-score, and accuracy metrics
 
-**Essential Libraries**
-
+# Essential Libraries
 
 python 3.8+,
 pandas,
@@ -36,7 +35,7 @@ scikit-learn,
 nltk,
 tensorflow/pytorch,
 
-**Steps Involved**
+# Steps Involved
 
 **Library Integration**: Import and configure all necessary programming libraries to support the project's functionalities.
 
@@ -58,7 +57,7 @@ tensorflow/pytorch,
 
 **Insight Visualization from Q-Tables**: Visualize the key insights derived from the Q-tables to demonstrate learned policies and optimal strategies.
 
-**Model Performance**
+# Model Performance
 
 |Metric    |Score |
 |----------|------|
