@@ -6,8 +6,8 @@ Sentiment analysis is a technique that uses natural language processing to deter
 
 # Key Features
 
-**Sentiment Analysis**: Classifies reviews as positive, negative, or neutral
-**Feature Extraction**: Identifies key aspects of restaurant experience (food, service, ambiance, price)
+- **Sentiment Analysis**: Classifies reviews as positive, negative, or neutral
+- **Feature Extraction**: Identifies key aspects of restaurant experience (food, service, ambiance, price)
 **Improvement Targeting**: Prioritizes areas for business improvement based on customer feedback
 **Customer Satisfaction Metrics**: Tracks satisfaction trends over time
 **Performance Optimization**: Utilizes cross-validation and Q-learning techniques
