@@ -14,17 +14,17 @@ Sentiment analysis is a technique that uses natural language processing to deter
 
 # Core Technologies
 
-Python for data processing and model implementation
-Natural Language Processing (NLP) for text analysis
-Machine Learning models for sentiment classification
+- Python for data processing and model implementation
+- Natural Language Processing (NLP) for text analysis
+- Machine Learning models for sentiment classification
 
 # Key Techniques
 
-**Cross-Validation**: Ensures model robustness and prevents overfitting
-**Q-Learning**: Reinforcement learning approach that optimizes decision-making based on customer feedback patterns
-**Text Preprocessing**: Tokenization, stopword removal, lemmatization
-**Feature Engineering**: TF-IDF, word embeddings, aspect-based feature extraction
-**Model Evaluation**: Precision, recall, F1-score, and accuracy metrics
+- **Cross-Validation**: Ensures model robustness and prevents overfitting
+- **Q-Learning**: Reinforcement learning approach that optimizes decision-making based on customer feedback patterns
+- **Text Preprocessing**: Tokenization, stopword removal, lemmatization
+- **Feature Engineering**: TF-IDF, word embeddings, aspect-based feature extraction
+- **Model Evaluation**: Precision, recall, F1-score, and accuracy metrics
 
 # Essential Libraries
 
