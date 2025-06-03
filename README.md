@@ -4,7 +4,7 @@ The project analyzes the sentiment of restaurant reviews using machine learning 
 What is Sentiment Analysis
 Sentiment analysis is a technique that uses natural language processing to determine whether text expresses positive, negative, or neutral emotions or opinions.
 
-##Key Features##
+####Key Features
 
 **Sentiment Analysis**: Classifies reviews as positive, negative, or neutral
 **Feature Extraction**: Identifies key aspects of restaurant experience (food, service, ambiance, price)
